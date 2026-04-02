@@ -1,0 +1,3 @@
+Ali,20,Student
+Mira,21,Gamer
+Omar,19,ProgrammerAmmar,22,uvt student
